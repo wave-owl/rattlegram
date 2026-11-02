@@ -1,0 +1,77 @@
+{
+  "gitlinks": {},
+  "vendored": [],
+  "models": [],
+  "external_libraries": [
+    {
+      "name": "Conditional source requirements declared by Makefile",
+      "version": "unresolved; see immutable declaration evidence",
+      "evidence": [
+        "Makefile"
+      ]
+    },
+    {
+      "name": "Conditional source requirements declared by app/build.gradle",
+      "version": "unresolved; see immutable declaration evidence",
+      "evidence": [
+        "app/build.gradle"
+      ]
+    },
+    {
+      "name": "Conditional source requirements declared by app/proguard-rules.pro",
+      "version": "unresolved; see immutable declaration evidence",
+      "evidence": [
+        "app/proguard-rules.pro"
+      ]
+    },
+    {
+      "name": "Conditional source requirements declared by app/src/main/cpp/CMakeLists.txt",
+      "version": "unresolved; see immutable declaration evidence",
+      "evidence": [
+        "app/src/main/cpp/CMakeLists.txt"
+      ]
+    },
+    {
+      "name": "Conditional source requirements declared by build.gradle",
+      "version": "unresolved; see immutable declaration evidence",
+      "evidence": [
+        "build.gradle"
+      ]
+    },
+    {
+      "name": "Android Gradle Plugin 8.0.1",
+      "version": "unresolved; conditional source declaration",
+      "evidence": [
+        "Makefile"
+      ]
+    },
+    {
+      "name": "androidx.appcompat:appcompat:1.6.1",
+      "version": "unresolved; conditional source declaration",
+      "evidence": [
+        "Makefile"
+      ]
+    },
+    {
+      "name": "com.google.android.material:material:1.9.0",
+      "version": "unresolved; conditional source declaration",
+      "evidence": [
+        "Makefile"
+      ]
+    },
+    {
+      "name": "androidx.constraintlayout:constraintlayout:2.1.4",
+      "version": "unresolved; conditional source declaration",
+      "evidence": [
+        "Makefile"
+      ]
+    },
+    {
+      "name": "Android NDK/CMake 3.18.1",
+      "version": "unresolved; conditional source declaration",
+      "evidence": [
+        "Makefile"
+      ]
+    }
+  ]
+}
