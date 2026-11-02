@@ -38,7 +38,7 @@ None.
 | androidx.constraintlayout:constraintlayout:2.1.4 | unresolved | conditional-build-runtime-requirement | unresolved |
 | Android NDK/CMake 3.18.1 | unresolved | conditional-build-runtime-requirement | unresolved |
 | gradle-wrapper | UNKNOWN | Syft source/package discovery | unresolved |
-| /Users/gerolfziegenhain/src/wave-owl/local/sbom-upstream-results/rattlegram/.source-input/gradle/wrapper/gradle-wrapper.jar | unresolved | Syft source/package discovery | unresolved |
+| gradle/wrapper/gradle-wrapper.jar | unresolved | Syft source/package discovery | unresolved |
 
 License evidence paths/hashes, source manifests, model hashes and conditional
 CMake declarations are recorded in SBOM.cdx.json. Declared upstream pins do not
